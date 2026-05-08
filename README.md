@@ -19,34 +19,19 @@
 
 <img align="right" alt="Coding GIF" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-```python
-class Shashank:
-    name       = "Shashank Kr. Singh"
-    college    = "JIIT Noida  (2023 - 2027)"
-    degree     = "B.Tech CSE"
-    location   = "Noida, India 🇮🇳"
+🎓 &nbsp;**JIIT Noida** — B.Tech CSE (2023 - 2027)
+📍 &nbsp;**Noida, India**
+🤖 &nbsp;I build AI systems and push them to do things most people don't think they can
+🚀 &nbsp;Product-first mindset with a full-stack skillset
+⚡ &nbsp;I don't just use AI tools — I make them work at their absolute limit
 
-    focus = [
-        "Agentic AI Systems",
-        "Multi-Agent Orchestration",
-        "Full-Stack Development",
-        "Product Thinking",
-    ]
-
-    motto = (
-        "Don't just build with AI. Make it"
-        " do things most people don't"
-        " think it can."
-    )
-```
+> *"Don't just build with AI. Make it do things most people don't think it can."*
 
 <br clear="right"/>
 
 ---
 
 ## 🧠 Currently Learning
-
-<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
 
 ```
 ⚡  Agentic AI workflows and multi-agent orchestration
@@ -55,10 +40,6 @@ class Shashank:
 🧩  Memory and planning layers in agentic systems
 🛠️  Prompt chaining, reflection loops and agent memory
 ```
-
-> *"The best tool is the one you pushed past its limits."*
-
-<br clear="right"/>
 
 ---
 
@@ -86,9 +67,10 @@ class Shashank:
 <br/>
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark&perline=6"/>
 <br/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=openai&theme=dark"/>
+&nbsp;
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
 <img src="https://img.shields.io/badge/RAG_Pipelines-FF6EC7?style=flat-square"/>
 <img src="https://img.shields.io/badge/NLP-A855F7?style=flat-square"/>
 <img src="https://img.shields.io/badge/Transformers-FF9D00?style=flat-square"/>
@@ -97,7 +79,7 @@ class Shashank:
 <br/>
 <img src="https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cursor-1A1A1A?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cursor-1A1A1A?style=flat-square"/>
 <img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white"/>
 
 </div>
@@ -114,31 +96,6 @@ class Shashank:
 | **SensorTune** | Smartwatch-oriented Android music player with real-time gesture controls via sensors | Java · Android · MVVM · Material 3 | [GitHub](https://github.com/LeywinArt/MusicPlayer-sensors-master) |
 | **MakeMyClinic** | AI-powered hospital management platform with Gemini chatbot and ML-based recommendations | Flask · Node.js · PostgreSQL · Socket.IO | [GitHub](https://github.com/Abhiman67/MakeMyClinic) · [Live](https://makemyclinic.netlify.app) |
 | **AI Career Coach** | Generative AI web app with ATS scorer, career roadmap generator and real-time AI chat | Next.js · Gemini · PostgreSQL · Drizzle | [GitHub](https://github.com/Abhiman67/CARRER-AGENT) |
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeywinArt&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeywinArt&layout=compact&theme=radical&hide_border=true&bg_color=0d1117"/>
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=LeywinArt&theme=radical&hide_border=true&background=0d1117)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LeywinArt&theme=redical&hide_border=true&area=true&bg_color=0d1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
